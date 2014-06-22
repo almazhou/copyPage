@@ -1,0 +1,208 @@
+body{
+	font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+	background-color: #E9EAED;
+}
+.navigate{
+	background-color: #4c66a4;
+	width: 1280px;
+	height: 42px;
+}
+.wrapper{
+	position: relative;
+}
+.brand{
+	background-image: url(../image/facebook_sprite.png);
+	background-position: -36px -62px;
+	width: 28px;
+	height: 28px;
+	display: block;
+	background-size: 312px 176px;
+	float: left;
+}
+.content{
+	position: relative;
+	margin-left: 40px;
+}
+
+form{
+	width: 529px;
+	height: 21px;
+}
+
+.people{
+	width: 31px;
+	height: 31px;
+	background-image: url(../image/hidden_sprite.png);
+	background-repeat: no-repeat;
+	background-size: 51px 1247px;
+	background-position: 0 -740px;
+}
+.message{
+	width: 33px;
+	height: 31px;
+	background-image: url(../image/hidden_sprite.png);
+	background-repeat: no-repeat;
+	background-size: 51px 1247px;
+	background-position: 0 -548px;	
+
+}
+
+.info{
+	width: 31px;
+	height: 31px;
+	background-image: url(../image/hidden_sprite.png);
+	background-repeat: no-repeat;
+	background-size: 51px 1247px;
+	background-position: 0 -900px;
+}
+
+.sidebar li{
+	float: left;
+	width: 35px;
+}
+
+.cover{
+	position: relative;
+	height: 160px;
+	background-color: #D3D4D7;
+}
+
+#addcover{
+	position: absolute;
+	top:0;
+	right:0;
+
+}
+.down{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.subnav button{
+	width: 100px;
+	height: 43px;
+}
+
+#pre,#end{
+	width: 183px;
+}
+#pre img{
+	position: relative;
+	margin-top: -168px;
+	width: 168px;
+	height: 168px;
+}
+.top li>a{
+	color: #fff;
+}
+.top li>a:hover{
+	background-color: #aaa;
+
+}
+
+.lowerpart{
+	padding: 10px 0px;
+}
+.leftBar a{
+	width: 300px;
+	display: block;
+	padding: 10px;
+}
+.books{
+	margin-top: 20px 0;
+}
+.books a{
+	margin: 10px 0;
+}
+.infos{
+	margin-top: 20px;
+}
+.pictures{
+	margin: 20px 0;
+	width: 321px;
+	height: 200px;
+	background-color: #fff;
+}
+.central{
+	margin-left: -30px;
+	width: 510px;
+}
+.central li{
+	padding-left:21px;
+}
+.central a{
+	font-size: 12px;
+	font-weight: bold;
+	height: 16px;
+	line-height: 16px;
+}
+.central li{
+	float: left;
+}
+
+.central .navbar .nav>li>a{
+	padding: 0;
+}
+#statusimg{
+	background-image: url(../image/colored_icon.png);
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+	display: block;
+	background-size: 35px 442px;
+	background-position: 0 -383px;
+}
+#photoAndVideo{
+	background-image: url(../image/colored_icon.png);
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+	display: block;
+	background-size: 35px 442px;
+	background-position: -17px -361px;
+}
+.central .nav>li{
+	margin-top: 10px;
+}
+.news{
+	padding-left: 10px;
+	padding-top: 10px;
+	height: 500px;
+	background-color: #fff;
+}
+
+.news .profile_icon{
+	display: block;
+	width: 42px;
+	height: 42px;
+	background-image: url("../image/profile.png");
+	background-size: 100% 100%;
+	border-radius: 5px;
+	margin-right: 10px;
+}
+.newsnav .left{
+	float: left;
+}
+.newsnav{
+	overflow: hidden;
+}
+.name{
+font-size: 14px;
+height: 20px;
+line-height: 16px;
+}
+
+.time{
+	font-size: 12px;
+	line-height: 15px;
+	color: #aaa;
+}
+.status{
+padding: 15px 5px;
+margin: 15px 0px; 
+border-bottom: 1px solid rgba(0,0,0,0.15);
+font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+font-size: 14px;
+line-height: 20px;
+}
+
