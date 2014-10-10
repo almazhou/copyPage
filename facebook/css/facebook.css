@@ -1,5 +1,6 @@
 body{
 	background-color: #E9EAED;
+	font-family: 'Helvetica Neue', Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;
 }
 .header{
 	width: 100%;
@@ -67,5 +68,16 @@ body{
 
 .navigation li{
 	float: left;
-	margin: 15px 20px;
+	margin: 12px 20px;
+	color: #FFFFFF;
+}
+.searchimage{
+	display: block;
+	width: 28px;
+	height: 28px;
+	background-repeat: no-repeat;
+	background-size: 312px 193px; 
+	/*background-size: 100% 100%;*/
+	background-image: url("../image/facebook_sprite.png");
+	background-position: -244px -62px;
 }
