@@ -61,3 +61,7 @@
 	float: right;
 	border:solid 1px orange;
 }
+.navigation li{
+	float: left;
+	margin: 15px 20px;
+}
