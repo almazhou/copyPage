@@ -68,7 +68,7 @@ body{
 
 .navigation li{
 	float: left;
-	margin: 12px 20px;
+	margin: 12px 10px;
 	color: #FFFFFF;
 }
 .searchimage{
@@ -83,8 +83,18 @@ body{
 }
 .searchInput{
 	float: left;
-}
-.searchInput input{
 	width: 515px;
 	height: 18px;
+	background-color: #fff;
+}
+
+.searchNow{
+	display: block;
+	width: 14px;
+	height: 14px;
+	background-image: url("../image/tool_sprite.png");
+	background-position: -18px -705px;
+	background-size: 49px 751px;
+	float: right;
+	margin: 0 5px;
 }
