@@ -111,4 +111,5 @@ body{
 .name{
 	display: inline-block;
 	float: left;
+	margin: 0 5px;
 }
