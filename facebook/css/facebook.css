@@ -79,6 +79,7 @@ body{
 	background-size: 312px 193px; 
 	background-image: url("../image/facebook_sprite.png");
 	background-position: -244px -62px;
+	margin-top: -5px;
 	float: left;
 }
 .searchInput{
@@ -96,5 +97,5 @@ body{
 	background-position: -18px -705px;
 	background-size: 49px 751px;
 	float: right;
-	margin: 0 5px;
+	margin: 0 5px; 	
 }
