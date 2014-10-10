@@ -80,6 +80,7 @@ body{
 	background-image: url("../image/facebook_sprite.png");
 	background-position: -244px -62px;
 	margin-top: -5px;
+	margin-left: 20px;
 	float: left;
 }
 .searchInput{
@@ -98,4 +99,16 @@ body{
 	background-size: 49px 751px;
 	float: right;
 	margin: 0 5px; 	
+}
+.smallprofile{
+	display: inline-block;
+	background-image: url("../image/small_profile.png");
+	width: 21px;
+	height: 21px;
+	background-size: 100% 100%;
+	float: left;
+}
+.name{
+	display: inline-block;
+	float: left;
 }
