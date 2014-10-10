@@ -88,6 +88,7 @@ body{
 	width: 515px;
 	height: 18px;
 	background-color: #fff;
+	border-radius: 3px;
 }
 
 .searchNow{
